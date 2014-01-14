@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScripts\RClic.cs">
+    <Files>
+      <File FileName="Assets\MyScripts\RClic.cs" Line="28" Column="54" />
+      <File FileName="Assets\MyScripts\RClic.cs" Line="60" Column="1" />
+      <File FileName="Assets\MyScripts\GetFrame.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\BIDT.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\LClic.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\Kevin\Desktop\LIOS\leapIos\Assets\MyScripts\IsClic.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\POCaction.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
